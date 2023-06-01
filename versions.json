@@ -1,0 +1,9 @@
+{
+    "client-desktop-glpi-techsize": {
+        "version": "1.0.1",
+        "description": "Client desktop GLPI Techsize",
+        "author": "Techsize",
+        "release_date": "2023-01-18",
+        "repository": "https://github.com/pederneiranderson/Client-Desktop-GLPI-TechSize"
+    }
+}
